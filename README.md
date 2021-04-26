@@ -6,4 +6,6 @@
 <p>para connocer el funcionamiento del api utilizar <strong><a href="https://www.postman.com/">postman</a></strong></p>
 <p>ESTE ES EL LINK: <a href="https://www.getpostman.com/collections/ed30416e146cc9f622da">https://www.getpostman.com/collections/ed30416e146cc9f622da</a></p>
 
-<p></p>
+<p>Ejecutar en consola desde servidor local el comando "php artisan migrate"</p>
+<p>Para comenzar con las pruebas.</p>
+
