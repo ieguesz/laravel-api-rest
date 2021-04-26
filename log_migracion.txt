@@ -1,0 +1,11 @@
+php artisan make:migration create_business_table
+php artisan make:migration create_categories_table
+php artisan make:migration create_users_table
+php artisan make:migration create_assignments_table
+
+php artisan make:model Business
+php artisan make:model Category
+php artisan make:model User
+php artisan make:model Assignment
+
+# php artisan make:controller MyapiController --resource
